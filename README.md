@@ -16,7 +16,7 @@ Create an Employee Management project.
 3. Create a pull request to this repo when you are done.
 
 # Requirements
-1. User must be able to login.
+1. User must be able to login. (optional for Frontend)
 2. User must be able to add/edit/create employees.
 3. User must be able to add/edit/create addresses.
 4. User must be able to assign address to employees
