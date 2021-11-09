@@ -19,17 +19,22 @@ Create an Employee Management project.
 ### For UI Designer
 - Designer must create a prototype using [Figma](http://figma.com/) or [Adobe XD](https://www.adobe.com/products/xd)
 - Designer must follow the requirements provided
-- Designer cannot replicate the mock below.
+- Designer cannot replicate the mock below
 
 # Instructions
+**Developer**
 1. Fork this repository
-3. Create a pull request to this repo when you are done.
+2. Create a pull request to this repo when you are done
+3. Commits to be written following the Conventional Commits specification
+
+**Designer**
+1. Reply the email with the working files
 
 # Requirements
 1. As a User, I want to login.
 2. As a User, I want to add/edit/create employees.
 3. As a User, I want to add/edit/create addresses.
-4. As a User, I want to assign address to employees
+4. As a User, I want to assign address to employees.
 
 # Bonus Tasks
 1. As a User, I want to get email verification when I sign up.
@@ -42,10 +47,10 @@ Create an Employee Management project.
 2. Add Unit Tests
 
 ### For Frontend Engineer
-1. Application UI adhere to the [mock](https://www.figma.com/file/PJS5uZNqDxmIRJJXiwHTdx/Case-Study) and [prototype](https://www.figma.com/proto/PJS5uZNqDxmIRJJXiwHTdx/Case-Study?node-id=10%3A7372&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=10%3A7372&hide-ui=1).
+1. Application UI adhere to the [mock](https://www.figma.com/file/PJS5uZNqDxmIRJJXiwHTdx/Case-Study) and [prototype](https://www.figma.com/proto/PJS5uZNqDxmIRJJXiwHTdx/Case-Study?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=10%3A7372&hide-ui=1).
 
 ### For QA
-1. Developer must adhere to the application [prototype](https://www.figma.com/proto/PJS5uZNqDxmIRJJXiwHTdx/Case-Study?node-id=10%3A7372&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=10%3A7372&hide-ui=1)
+1. Test cases to follow to the application [prototype](https://www.figma.com/proto/PJS5uZNqDxmIRJJXiwHTdx/Case-Study?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=10%3A7372&hide-ui=1) flow.
 
 ### For UI Designer
 1. Designer should use their own creativity when creating the prototype. 
