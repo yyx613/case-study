@@ -16,21 +16,26 @@ Create an Employee Management project.
 - Developer must follow the requirements provided
 - Developer can generate your own attributes for the HTML element
 
+### For UI Designer
+- Designer must create a prototype using [Figma](http://figma.com/) or [Adobe XD](https://www.adobe.com/products/xd)
+- Designer must follow the requirements provided
+- Designer cannot replicate the mock below.
+
 # Instructions
 1. Fork this repository
 3. Create a pull request to this repo when you are done.
 
 # Requirements
-1. User must be able to login. (optional for Frontend)
-2. User must be able to add/edit/create employees.
-3. User must be able to add/edit/create addresses.
-4. User must be able to assign address to employees
+1. As a User, I want to login.
+2. As a User, I want to add/edit/create employees.
+3. As a User, I want to add/edit/create addresses.
+4. As a User, I want to assign address to employees
 
 # Bonus Tasks
-1. Send email verification when user sign up.
-2. Allow user to filter employees based on address.
-3. Allow user to view historical deleted employees.
-4. User can assign roles to employees.
+1. As a User, I want to get email verification when I sign up.
+2. As a User, I want to filter employees based on their addresses.
+3. As a User, I want to view historical deleted employees.
+4. As a User, I want to assign roles to employees.
 
 ### For Backend Engineer
 1. Deploy the application
@@ -41,3 +46,7 @@ Create an Employee Management project.
 
 ### For QA
 1. Developer must adhere to the application [prototype](https://www.figma.com/proto/PJS5uZNqDxmIRJJXiwHTdx/Case-Study?node-id=10%3A7372&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=10%3A7372&hide-ui=1)
+
+### For UI Designer
+1. Designer should use their own creativity when creating the prototype. 
+2. Animated prototype is a plus.
